@@ -1,3 +1,4 @@
 chleb   4.50
 mleko   5.00
 masło   6.00
+ryż         3.20
